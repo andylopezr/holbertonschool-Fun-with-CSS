@@ -1,1 +1,2 @@
-# holbertonschool-Fun-with-CSS
+# Fun with CSS
+> Experimenting with layouts using HTML and CCS only.
